@@ -1,3 +1,6 @@
 # markdowntest
 
 :rocket:
+:heart:
+:smile:
+👍
